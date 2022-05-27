@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=ST0PHoonGitHub&fontSize=20)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST0PHoon)](https://github.com/ST0PHoon/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST0PHoon)](https://github.com/ST0PHoon/github-readme-stats)
 
 <!--
 **ST0PHoon/ST0PHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
