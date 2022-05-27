@@ -1,5 +1,5 @@
 ### Hi there 👋
-### C, Java, Linux, Github, Markdown, Html
+
 <!--
 **ST0PHoon/ST0PHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
