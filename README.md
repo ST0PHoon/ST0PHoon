@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=ST0PHoonGitHub&fontSize=20)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST0PHoon)](https://github.com/ST0PHoon/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST0PHoon)](https://github.com/ST0PHoon/github-readme-stats)
